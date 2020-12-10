@@ -2,3 +2,5 @@
 /GoogleNews/*
 /dm2020-hw2-nthu/*
 /glove/glove.twitter.27B/*
+/glove/*
+/.DS_Store
